@@ -6,7 +6,7 @@ Reminders, user activity stats, and a simple frontend for management.
 ## Project Structure
 
 ```
-mygroupbot/
+python/
 ├── backend/
 │   ├── bot.py
 │   ├── api.py
