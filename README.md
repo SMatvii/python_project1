@@ -1,4 +1,4 @@
-# Telegram Group Assistant
+# Telegram Group Assistant #
 
 **Telegram group assistant bot:**  
 Reminders, user activity stats, and a simple frontend for management.
